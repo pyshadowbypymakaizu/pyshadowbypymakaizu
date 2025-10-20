@@ -39,6 +39,7 @@ Nếu phát hiện những Công cụ (Tools) được mã hóa bằng Công c�
      - Sử dụng **Trái phép**: Sử dụng **công cụ** vào bất kỳ mục đích nào cho công cụ/hoạt động trái phép, bất hợp pháp, độc hại hoặc **vi phạm pháp luật hiện hành**.
      - Phân phối **Mã độc**: Sử dụng **công cụ** để tạo, chia sẻ, phân phối hoặc quảng bá mã độc hại (malware), virus, trojan, hoặc bất kỳ phần mềm gây hại nào khác.
      - **Lạm dụng**: Cố ý sử dụng **công cụ** sai mục đích, gây hại, hoặc làm tổn thất đến danh tiếng, tài sản của Chủ sở hữu hoặc bên thứ ba.
+     - **Nghiêm cấm**: Người dùng thực hiện hoặc cố gắng thực hiện bất kỳ hình thức phân tích ngược, dịch ngược (**decompile**), tháo gỡ (**disassemble**) hoặc tìm cách khám phá mã nguồn, thuật toán, hoặc cấu trúc bên trong của Công cụ.
 
 **5. TỪ CHỐI TRÁCH NHIỆM**
  - Tự Chịu Trách Nhiệm: Người dùng hoàn toàn tự chịu trách nhiệm đối với mọi hậu quả, tổn thất hoặc trách nhiệm pháp lý phát sinh từ việc cố tình hoặc vô ý sử dụng sai mục đích hoặc vi phạm bất kỳ điều khoản nào của Giấy phép này. Chủ sở hữu **công cụ** (***PyMaKaizu***) sẽ không chịu bất kỳ trách nhiệm pháp lý nào liên quan đến việc lạm dụng hoặc sử dụng **công cụ** vào mục đích bất hợp pháp của Người dùng.
@@ -54,9 +55,9 @@ Nếu phát hiện những Công cụ (Tools) được mã hóa bằng Công c�
 - Người dùng tiếp tục sử dụng Công cụ đồng nghĩa với việc đồng ý với các điều khoản được cập nhật.
 
 **9. CƠ CHẾ VÔ HIỆU HÓA VÀ XỬ LÝ VI PHẠM**
-- Chủ sở hữu có quyền vô hiệu hóa, thu hồi hoặc xóa bỏ enc_id mà không cần báo trước nếu phát hiện hành vi vi phạm các điều lệ trong giấy phép này.
+- Chủ sở hữu có quyền vô hiệu hóa, thu hồi hoặc xóa bỏ **Mã Định Danh** mà không cần báo trước nếu phát hiện hành vi vi phạm các điều lệ trong giấy phép này.
 - Người dùng có quyền khiếu nại nếu cho rằng việc vô hiệu hóa là không chính xác, nhưng phải cung cấp bằng chứng hợp lệ.
-- Các phiên bản, enc_id bị vô hiệu hóa sẽ **không được phục hồi** nếu không có thỏa thuận lại bằng văn bản từ Chủ sở hữu.
+- Các phiên bản, **Mã Định Danh** bị vô hiệu hóa sẽ **không được phục hồi** nếu không có thỏa thuận lại bằng văn bản từ Chủ sở hữu.
 
 **10. XÁC THỰC PHIÊN BẢN & CẢNH BÁO GIẢ MẠO**
 - Phiên bản chính thức của Công cụ phải có chữ ký hoặc thông tin nhận dạng từ Chủ sở hữu và ít nhất có banner quen thuộc của chúng tôi thì mới chấp nhận hỗ trợ.
@@ -68,7 +69,7 @@ Nếu phát hiện những Công cụ (Tools) được mã hóa bằng Công c�
 **12. QUYỀN KIỂM SOÁT TẠM THỜI**
 - Trong trường hợp phát hiện rủi ro bảo mật, lạm dụng diện rộng hoặc sự cố nghiêm trọng
 - Chủ sở hữu có quyền:
-    - Tạm vô hiệu hóa enc_id.
+    - Tạm vô hiệu hóa **Mã Định Danh**.
     - Chặn tạm thời công cụ mà không cần báo trước.
     - Sau khi sự cố được giải quyết, quyền truy cập có thể được khôi phục nếu người dùng không vi phạm.
 
