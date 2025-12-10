@@ -1,12 +1,12 @@
 # GIẤY PHÉP SỬ DỤNG CÔNG CỤ
 
-Các Công cụ có tên sau : **PyShadow**, **PyMaKaizu**, **PyZuma**
+Các Công cụ có tên sau : **PyShadow**, **PyMaKaizu**, **PyZuma**, **PyVarLight**
 
 Giấy phép cập nhật ngày 10-10-2025, dùng chung cho các công cụ trên.
 
 ## Lời mở đầu
 
-Tài liệu này là Giấy phép Sử dụng Phần mềm **Pyshadow**, **PyMaKaizu**, **PyZuma**. Bằng việc truy cập, tải xuống hoặc sử dụng Công cụ, Người dùng được xem là đã chấp nhận và đồng ý tuân thủ tất cả các điều khoản và điều kiện được nêu rõ dưới đây. **PyMaKaizu** là Chủ sở hữu và giữ toàn bộ quyền sở hữu trí tuệ đối với các Công cụ này.
+Tài liệu này là Giấy phép Sử dụng Phần mềm **Pyshadow**, **PyMaKaizu**, **PyZuma**, **PyVarLight**. Bằng việc truy cập, tải xuống hoặc sử dụng Công cụ, Người dùng được xem là đã chấp nhận và đồng ý tuân thủ tất cả các điều khoản và điều kiện được nêu rõ dưới đây. **PyMaKaizu** là Chủ sở hữu và giữ toàn bộ quyền sở hữu trí tuệ đối với các Công cụ này.
 
 ### Chú Ý
 
