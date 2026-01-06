@@ -10,10 +10,10 @@ Tài liệu này là Giấy phép Sử dụng Phần mềm **Pyshadow**, **PyMaK
 
 ### Chú Ý
 
-Nếu phát hiện những Công cụ (Tools) được mã hóa bằng Công cụ mã hóa của chúng tôi mà có dấu hiệu **Malware**, **Virus**, **Trojan**, **Keylog**, v,v. Hãy báo ngay cho chúng tôi qua Telegram : junidokai, khi báo kèm theo enc_id để chúng tôi có thể vô hiệu hóa đối với các công cụ gây hại này. Lưu ý nếu có thể hãy chứng minh rằng Công cụ (Tools) đó gây hại để không bị xóa một cách vô cớ đối với các Dev và chỉ những Công cụ mã hóa (**ENC**) mà có tên của chúng tôi thì sẽ được chấp nhận yêu cầu xóa còn các **OBF** thì sẽ không hỗ trợ.
+Nếu phát hiện những Công cụ (Tools) được mã hóa bằng Công cụ mã hóa của chúng tôi mà có dấu hiệu **Malware**, **Virus**, **Trojan**, **Keylog**, v,v. Hãy báo ngay cho chúng tôi qua Telegram : junidokai, khi báo kèm theo **Mã Định Danh** để chúng tôi có thể vô hiệu hóa đối với các công cụ gây hại này. Lưu ý nếu có thể hãy chứng minh rằng Công cụ (Tools) đó gây hại để không bị xóa một cách vô cớ đối với các Dev và chỉ những Công cụ mã hóa (**ENC**) mà có tên của chúng tôi thì sẽ được chấp nhận yêu cầu xóa còn các **OBF** thì sẽ không hỗ trợ.
 
 **0. ĐỊNH NGHĨA**
-- “Công cụ”: chỉ chung cho các phần mềm có tên PyShadow, PyMaKaizu, PyZuma.
+- “Công cụ”: chỉ chung cho các phần mềm có tên **PyShadow**, **PyMaKaizu**, **PyVarLight**.
 - “ENC”: file hoặc tool đã được mã hóa bằng công cụ chính chủ.
 - “OBF”: các bản obfuscate biến thể do chúng tôi phát hành nhưng không thuộc phạm vi hỗ trợ chính thức.
 - “Chủ sở hữu”: nhóm phát triển ban đầu – PyMaKaizu.
