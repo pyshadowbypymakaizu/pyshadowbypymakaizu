@@ -1,3 +1,5 @@
+[Lời giới thiệu](https://github.com/pyshadowbypymakaizu/pyshadowbypymakaizu/blob/main/License.md)
+
 # GIẤY PHÉP SỬ DỤNG CÔNG CỤ
 
 Các Công cụ có tên sau : **PyShadow**, **PyMaKaizu**, **PyZuma**, **PyVarLight**
