@@ -6,4 +6,4 @@
 - Ngăn chặn **Crack** mã nguồn.
 - Mã hóa giao thức kết nối
 - Chống fake chứng chỉ: **CA**, v.v
-- 
+- Mã hóa **Import** chống sửa đổi module.
